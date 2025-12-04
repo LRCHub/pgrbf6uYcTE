@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ヒカルモノクラクナル",
+  "base_artist": "大森元貴",
+  "createdAt": "2025-12-04T14:35:04.768964Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ヒカルモノクラクナル",
+      "artist": "Motoki Ohmori",
+      "has_synced": true,
+      "path": "select/01_ヒカルモノクラクナル_Motoki_Ohmori.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヒカルモノクラクナル",
+      "artist": "大森元貴",
+      "has_synced": false,
+      "path": "select/pl_01_ヒカルモノクラクナル_大森元貴.txt"
+    }
+  ]
+}
